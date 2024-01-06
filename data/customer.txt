@@ -1,0 +1,20 @@
+{
+    "pass": "password",
+    "price": [
+        2222,
+        150
+    ],
+    "name": "user",
+    "model": [
+        "nvidia",
+        "Tradesman"
+    ],
+    "id": [
+        1111,
+        222
+    ],
+    "partName": [
+        "GTX 1060",
+        "16GB DDR4"
+    ]
+}

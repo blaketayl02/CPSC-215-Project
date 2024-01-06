@@ -1,0 +1,8 @@
+{
+  "pass": "password",
+  "price": [5000],
+  "name": "blake",
+  "model": ["Nvidia"],
+  "id": [1111],
+  "partName": ["GTX 1060"]
+}
